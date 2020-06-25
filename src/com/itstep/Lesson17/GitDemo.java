@@ -1,4 +1,8 @@
 package com.itstep.Lesson17;
 
 public class GitDemo {
+    public static void main(String[] args) {
+        System.out.println("Initial commit");
+
+    }
 }
